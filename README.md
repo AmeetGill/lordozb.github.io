@@ -1,1 +1,1 @@
-# Finding The Best Ingridents For My Alchemy!
+# Finding The Best Ingredients For My Alchemy!
