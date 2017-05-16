@@ -9,6 +9,7 @@ class Foo{
   String name;
   int freq;
 
+  // Constructor.
   public Foo(String name){
     this.name = name;
     this.freq = 1;
@@ -33,6 +34,7 @@ public class Demo{
         }
       }
 
+      //Sorting the values.
       Collections.sort(al, new Comparator <Foo>(){
         public int compare(Foo o1, Foo o2){
           if(o1.freq < o2.freq)
